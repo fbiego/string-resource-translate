@@ -45,14 +45,16 @@ fun generate(strings: List<String>){
             }
     	}
     	output += "</resources>"
-        println("Generated: ${name}/strings.xml")
-		if (!dir.exists())
+		if (!dir.exists()){
 			dir.mkdirs()
+		}
 		val res = File(dir, name)
-		if (!res.exists())
+		if (!res.exists()){
             res.mkdirs()
+		}
 		val file = File(res, "strings.xml")
 		file.createNewFile()
 		file.writeText(output)
+        println("Generated: ${name}/strings.xml")
 	}
 }
