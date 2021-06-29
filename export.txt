@@ -1,0 +1,4 @@
+language,English,Russian,Indonesian,Vietnamese,Portuguese,Greek,German,Spanish,Czech,Italian,Polish
+id,en,ru,in,vi,pt,el,de,es,cs,it,pl
+formula,Formula,формула,Rumus,Công thức,Fórmula,Τύπος,Formel,Fórmula,Vzorec,Formula,Formuła
+name,Name,Имя,Nama,Tên,Nome,Ονομα,Name,Nombre,název,Nome,Nazwa

@@ -1,0 +1,5 @@
+<resources>
+	<string name="language">Greek</string>
+	<string name="formula">Τύπος</string>
+	<string name="name">Ονομα</string>
+</resources>

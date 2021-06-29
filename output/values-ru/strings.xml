@@ -1,0 +1,5 @@
+<resources>
+	<string name="language">Russian</string>
+	<string name="formula">формула</string>
+	<string name="name">Имя</string>
+</resources>
