@@ -2,4 +2,7 @@
 	<string name="language">English</string>
 	<string name="formula">Formula</string>
 	<string name="name">Name</string>
+	<string name="resource">Resource</string>
+	<string name="string">String</string>
+	<string name="sample">Sample</string>
 </resources>

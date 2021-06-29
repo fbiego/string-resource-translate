@@ -2,4 +2,7 @@
 	<string name="language">Vietnamese</string>
 	<string name="formula">Công thức</string>
 	<string name="name">Tên</string>
+	<string name="resource">Nguồn</string>
+	<string name="string">Chuỗi</string>
+	<string name="sample">Mẫu vật</string>
 </resources>

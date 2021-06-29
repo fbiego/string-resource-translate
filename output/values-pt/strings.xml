@@ -2,4 +2,7 @@
 	<string name="language">Portuguese</string>
 	<string name="formula">Fórmula</string>
 	<string name="name">Nome</string>
+	<string name="resource">Recurso</string>
+	<string name="string">Fragmento</string>
+	<string name="sample">Amostra</string>
 </resources>

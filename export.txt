@@ -2,3 +2,6 @@ language,English,Russian,Indonesian,Vietnamese,Portuguese,Greek,German,Spanish,C
 id,en,ru,in,vi,pt,el,de,es,cs,it,pl
 formula,Formula,формула,Rumus,Công thức,Fórmula,Τύπος,Formel,Fórmula,Vzorec,Formula,Formuła
 name,Name,Имя,Nama,Tên,Nome,Ονομα,Name,Nombre,název,Nome,Nazwa
+resource,Resource,Ресурс,Sumber,Nguồn,Recurso,Πόρος,Ressource,Recurso,prostředky,Risorsa,Ratunek
+string,String,Нить,Tali,Chuỗi,Fragmento,Σειρά,Schnur,Cuerda,Tětiva,Corda,Strunowy
+sample,Sample,Образец,Sampel,Mẫu vật,Amostra,Δείγμα,Stichprobe,Muestra,Vzorek,Campione,Próba

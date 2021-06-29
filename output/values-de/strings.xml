@@ -2,4 +2,7 @@
 	<string name="language">German</string>
 	<string name="formula">Formel</string>
 	<string name="name">Name</string>
+	<string name="resource">Ressource</string>
+	<string name="string">Schnur</string>
+	<string name="sample">Stichprobe</string>
 </resources>

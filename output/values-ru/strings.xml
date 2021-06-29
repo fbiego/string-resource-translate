@@ -2,4 +2,7 @@
 	<string name="language">Russian</string>
 	<string name="formula">формула</string>
 	<string name="name">Имя</string>
+	<string name="resource">Ресурс</string>
+	<string name="string">Нить</string>
+	<string name="sample">Образец</string>
 </resources>

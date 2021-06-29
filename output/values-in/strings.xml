@@ -2,4 +2,7 @@
 	<string name="language">Indonesian</string>
 	<string name="formula">Rumus</string>
 	<string name="name">Nama</string>
+	<string name="resource">Sumber</string>
+	<string name="string">Tali</string>
+	<string name="sample">Sampel</string>
 </resources>

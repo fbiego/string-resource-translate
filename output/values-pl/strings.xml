@@ -2,4 +2,7 @@
 	<string name="language">Polish</string>
 	<string name="formula">Formuła</string>
 	<string name="name">Nazwa</string>
+	<string name="resource">Ratunek</string>
+	<string name="string">Strunowy</string>
+	<string name="sample">Próba</string>
 </resources>

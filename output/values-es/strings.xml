@@ -2,4 +2,7 @@
 	<string name="language">Spanish</string>
 	<string name="formula">Fórmula</string>
 	<string name="name">Nombre</string>
+	<string name="resource">Recurso</string>
+	<string name="string">Cuerda</string>
+	<string name="sample">Muestra</string>
 </resources>
