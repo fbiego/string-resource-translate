@@ -1,8 +1,0 @@
-<resources>
-	<string name="language">Greek</string>
-	<string name="formula">Τύπος</string>
-	<string name="name">Ονομα</string>
-	<string name="resource">Πόρος</string>
-	<string name="string">Σειρά</string>
-	<string name="sample">Δείγμα</string>
-</resources>
